@@ -8,4 +8,4 @@
 
 $var = 5;
 $newVariable = 100;
-// newVariable must be 100
+// newVariable must be 100, because 100 > 20 !
