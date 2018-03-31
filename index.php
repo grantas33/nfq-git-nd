@@ -9,3 +9,4 @@
 $var = 5;
 $newVariable = 100;
 $checkers = array();
+// newVariable must be 100, because 100 > 20 !
