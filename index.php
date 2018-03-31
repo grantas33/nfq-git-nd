@@ -7,3 +7,4 @@
  */
 
 $var = 5;
+$newVariable = 20;
