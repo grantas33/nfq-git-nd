@@ -7,4 +7,5 @@
  */
 
 $var = 5;
-$newVariable = 20;
+$newVariable = 100;
+// newVariable must be 100
